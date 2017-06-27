@@ -1,0 +1,6 @@
+#!/bin/bash
+
+update-grub
+
+#DEBHELPER#
+exit 0
