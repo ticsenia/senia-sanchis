@@ -1,0 +1,14 @@
+Source: senia-sanchis
+Section: metapackages
+Priority: extra
+Maintainer: Patxi Sanchis <patxisl@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+
+Package: senia-patxi-tools
+Architecture: all
+Depends: ${misc:Depends}, tree
+Description: senia sanchis primer paquete
+ Esta es la descripcion larga
+ e importante dejar espacio 
+ antes de cada linea
